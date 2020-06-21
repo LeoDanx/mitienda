@@ -8,6 +8,7 @@
     <script src="https://kit.fontawesome.com/07478c945c.js" crossorigin="anonymous"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <link rel="stylesheet" href="{{url('/static/css/connect.css?v='.time())}}">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
 
     <title>MiTienda - @yield('title')</title>
 </head>
